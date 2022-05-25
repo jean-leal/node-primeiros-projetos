@@ -7,7 +7,7 @@ const filho;
 const numeroGrande = 23243213253614536n;
 const numeroGrande2 = BigInt("3213213213465");
 const meuSimbolo = new Symbol();
-const meuObjeto= {
+const meuObjeto = {
   curso: "Estrutura de Dados", 
   instrutores: ['Gabriel', 'Vanessa']
 }
